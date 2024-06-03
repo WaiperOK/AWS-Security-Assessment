@@ -10,8 +10,8 @@ def warn_and_store(message, log_messages):
 
 iam = boto3.client(
     'iam',
-    aws_access_key_id='AKIA4MTWHWAQWEXGWEGH',
-    aws_secret_access_key='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',
+    aws_access_key_id='',
+    aws_secret_access_key='',
     region_name='us-west-2'
 )
 
